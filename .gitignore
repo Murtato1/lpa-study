@@ -1,0 +1,17 @@
+.env
+storage/
+anythingllm_storage/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+secrets.txt
+node_modules/
+dist/
+.venv
+.venv/
+venv/
+pdf_chunker/output/
+pdf_chunker/pdfs/
+*.pem
+.vscode
